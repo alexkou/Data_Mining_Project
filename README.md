@@ -1,6 +1,3 @@
-# Data_Mining_Project
-
-
 ## A. Healthcare stroke dataset
 - Visualize the dataset
 - Handle missing values with the following methods
